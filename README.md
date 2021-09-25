@@ -65,6 +65,7 @@
 
 - [Acessibilidade sem esforço para surdos: janela de libras ou legenda?](https://www.congressotils.com.br/anais/anais/tils2012_metodologias_traducao_vieira.pdf)
 - [Comunicação Surda? Como o mercado audiovisual recebe as leis de inclusão aos surdos](https://drive.google.com/file/d/14iNPQqqg0efcBu2riX-dYLXMsPnPKkX6/view?usp=sharing)
+- [Estudos sobre expressões não-manuais da libras: Constatações e perspectivas](https://proxy.furb.br/ojs/index.php/linguagens/article/view/7287)
 - [História das pessoas surdas: da exclusão à política educacional brasileira atual](http://acervodigital.unesp.br/handle/123456789/65523)
 - [Legendagem para surdos e ensurdecidos(LSE): Um Estudo de Recepção com Surdos da Região Sudeste](https://www.revistas.usp.br/tradterm/article/view/69132)
 - [Legendas e janelas: questão de acessibilidade](https://www.revistas.ufg.br/revsinal/article/view/36156)
