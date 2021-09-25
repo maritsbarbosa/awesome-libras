@@ -12,6 +12,7 @@
 - [Trabalhos acadêmicos](#trabalhos)
 - [Leitura](#leitura)
 - [Legislação, normas técnicas, boas práticas](#legislação-normas-técnicas-boas-práticas)
+- [Sinalários](#sinalarios)
 
 ### Canais do Youtube
 
@@ -87,3 +88,7 @@
 - [Lei 12.343 - Plano Nacional de Cultura - PNC](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12343.htm)
 - [Norma Complementar nº 01/2006 - Recursos de acessibilidade](https://informacoes.anatel.gov.br/legislacao/index.php/component/content/article?id=442)
 - [WCAG 2.1 de forma simples!](https://guia-wcag.com/)
+
+### Sinalários
+
+- [Dicionário Jurídico de Libras](https://www.tjsc.jus.br/dicionario-juridico-de-libras)
