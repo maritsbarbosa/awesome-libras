@@ -25,7 +25,7 @@
 - [Helen Pereira Lima](https://www.youtube.com/channel/UCismYlSmtCnkcffyrQ0Rwgg)
 - [Leo Viturinno](https://www.youtube.com/c/leoviturinno)
 - [Libras Pro](https://www.youtube.com/c/Libraspro)
-- [Profª Paula | Libras Natural](https://www.youtube.com/user/Paulikamariasc)
+- [Profª Paula - Libras Natural](https://www.youtube.com/user/Paulikamariasc)
 - [Traduz Aí - Prof. Me. Wharlley](https://www.youtube.com/channel/UCENBvZvP03orR7JtR1NnB4A)
 - [Visurdo](https://www.youtube.com/c/andreiborges11)
 - [You LIBRAS](https://www.youtube.com/c/YouLIBRAS)
