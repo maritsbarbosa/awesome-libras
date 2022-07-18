@@ -53,6 +53,7 @@
 ### Instagram para seguir 
 
 - [FENEIS](https://www.instagram.com/feneis.oficial/)
+- [Fesai](https://www.instagram.com/fesai_br/)
 - [Gabriel Issac](https://www.instagram.com/p/B3AdSa6pUlc)
 - [José Gabriel](https://www.instagram.com/surdo_sensato/)
 - [Leo Viturinno](https://www.instagram.com/p/Brc_sDxgWPv)
@@ -98,3 +99,4 @@
 ### Sinalários
 
 - [Dicionário Jurídico de Libras](https://www.tjsc.jus.br/dicionario-juridico-de-libras)
+- [Sinalário de TI - Fesai](https://www.fesai.herokuapp.com/home)
