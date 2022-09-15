@@ -32,6 +32,7 @@
 
 ### Cursos 
 
+- [Curso Libras EaD USP](https://eaulas.usp.br/portal/video.action?idItem=6540)
 - [Curso de Libras Básico - Letras-Libras UFRJ](https://www.youtube.com/playlist?list=PLm7qw9oYBxanABvnJc4kWazFSv8uzK7PQ)
 - [Curso de Libras para Iniciantes](https://www.youtube.com/playlist?list=PLpysclORpfqrFxHmESxUPqkTwnNqmq834)
 - [Introdução à Libras - Escola Virtual do Governo](https://www.escolavirtual.gov.br/curso/11)
