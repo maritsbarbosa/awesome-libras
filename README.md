@@ -12,7 +12,7 @@
 - [Trabalhos acadêmicos](#trabalhos)
 - [Leitura](#leitura)
 - [Legislação, normas técnicas, boas práticas](#legislação-normas-técnicas-boas-práticas)
-- [Sinalários](#sinalarios)
+- [Sinalários](#sinalários)
 
 ### Canais do Youtube
 
@@ -38,9 +38,9 @@
 
 ### Empresas
 
-- [HandTalk](https://www.handtalk.me/br/inicio)
+- [HandTalk](https://www.handtalk.me/br)
 - [Pessoalize](https://pessoalize.com/)
-- [Wise Hands](https://wisehands.org/?lang=pt)
+- [Wise Hands](https://wisehands.com.br/)
 
 ### Ferramentas
 
@@ -66,23 +66,21 @@
 
 ### Trabalhos
 
-- [Acessibilidade sem esforço para surdos: janela de libras ou legenda?](https://www.congressotils.com.br/anais/anais/tils2012_metodologias_traducao_vieira.pdf)
-- [Comunicação Surda? Como o mercado audiovisual recebe as leis de inclusão aos surdos](https://drive.google.com/file/d/14iNPQqqg0efcBu2riX-dYLXMsPnPKkX6/view?usp=sharing)
-- [Cultura Surda: O que se vê, o que se ouve](https://core.ac.uk/download/pdf/12428313.pdf)
+- [Acessibilidade sem esforço para surdos: janela de libras ou legenda?](https://web.archive.org/web/20240723174221/https://www.congressotils.com.br/anais/anais/tils2012_metodologias_traducao_vieira.pdf)
 - [Estudos sobre expressões não-manuais da libras: Constatações e perspectivas](https://proxy.furb.br/ojs/index.php/linguagens/article/view/7287)
-- [História das pessoas surdas: da exclusão à política educacional brasileira atual](http://acervodigital.unesp.br/handle/123456789/65523)
+- [História das pessoas surdas: da exclusão à política educacional brasileira atual](https://acervodigital.unesp.br/handle/123456789/65523)
 - [Legendagem para surdos e ensurdecidos(LSE): Um Estudo de Recepção com Surdos da Região Sudeste](https://www.revistas.usp.br/tradterm/article/view/69132)
 - [Legendas e janelas: questão de acessibilidade](https://www.revistas.ufg.br/revsinal/article/view/36156)
 - [Os processos de formação de palavra na Libras](https://www.ssoar.info/ssoar/bitstream/handle/document/10171/ssoar-etd-2006-2-felipe-os_processos_de_formacao_de.pdf?sequence=1&isAllowed=y&lnkname=ssoar-etd-2006-2-felipe-os_processos_de_formacao_de.pdf)
 - [Surdez na Idade Média / Moderna](https://culturasurda.net/idade-media-moderna/)
 - [Tradução Audiovisual Acessível (TAVA): A segmentação linguística na legendagem para surdos (LSE) da campanha política na televisão em Fortaleza](https://periodicos.sbu.unicamp.br/ojs/index.php/tla/article/view/8649289/16541)
-- [Um pouco mais da história da educação dos surdos, segundo Ferdinand Berthier](https://www.researchgate.net/publication/315998146_Um_pouco_mais_da_historia_da_educacao_dos_surdos_segundo_Ferdinand_Berthier)
+- [Um pouco mais da história da educação dos surdos, segundo Ferdinand Berthier](https://doi.org/10.20396/etd.v7i2.807)
 
 ### Leitura
 
 - [A epopeia ignorada – A pessoa deficiente na história do mundo de ontem e de hoje. Otto Marques da Silva](https://www.estantevirtual.com.br/livros/otto-marques-da-silva/a-epopeia-ignorada/1150934711)
+- [As pessoas com deficiência na história do Brasil – Uma trajetória de silêncio e gritos (antes: Caminhando em silêncio). Emílio Figueira](https://www.estantevirtual.com.br/livro/as-pessoas-com-deficiencia-na-historia-do-brasil-uma-trajetoria-de-silencio-e-gritos-FV6-1328-000-BK)
 - [Bullying contra surdos: a manifestação silenciosa da resiliência. Telma Franco](https://www.amazon.com.br/Bullying-contra-surdos-manifesta%C3%A7%C3%A3o-Transdisciplinaridades-ebook/dp/B074T2S2SC/ref=sr_1_8?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2G2L662SQW7Y1&dchild=1&keywords=surdos+que+ouvem&qid=1632585086&s=digital-text&sprefix=surdos+que+ou%2Caps%2C289&sr=1-8)
-- [Caminhando no silêncio – Uma introdução à trajetória das pessoas com deficiência na história do Brasil. Emílio Figueira](https://www.orelhadelivro.com.br/livros/697501/caminhando-em-silencio-uma-introducao-a-trajetoria-da-pessoa-com-deficiencia-na-historia-do-brasil/)
 - [Libras. Ronice Müller De Quadros](https://www.amazon.com.br/Libras-Ronice-M%C3%BCller-Quadros/dp/8579341663/ref=sr_1_14?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Libras&qid=1632584824&sr=8-14)
 - [Libras em Contexto: curso básico, livro do professor instrutor. Felipe & Monteiro](https://www.estantevirtual.com.br/livros/tanya-a-felipe/libras-em-contexto-curso-basico-livro-do-estudante-cursista/2463040814?livro_usado=1&b_order=preco&gclid=Cj0KCQjwkbuKBhDRARIsAALysV5nuNAlz49o9mDP2UN0CyvwiXOUV2ZvOIIbJfl8qFC7y_7qH5dL2IsaAr9hEALw_wcB)
 - [Libras, que língua é essa? Audrei Gesser](https://www.amazon.com.br/Libras-que-L%C3%ADngua-Audrei-Gesser/dp/8579340012/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Libras&qid=1632584743&sr=8-1)
@@ -99,4 +97,4 @@
 ### Sinalários
 
 - [Dicionário Jurídico de Libras](https://www.tjsc.jus.br/dicionario-juridico-de-libras)
-- [Sinalário de TI - Fesai](https://www.fesai.herokuapp.com/home)
+- [Sinalário de Informática - IFCE](https://www.youtube.com/@LibrasnaEPTSinalario)
